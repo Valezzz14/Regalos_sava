@@ -1,4 +1,4 @@
-# Regalos_sava
+# REGALOS_SAVA
 Regalos_Sava es una plataforma en línea dedicada a la creación y venta de regalos personalizados en todo el Ecuador, el cual se especializa en ofrecer una amplia gama de productos únicos que pueden ser personalizados según las preferencias y ocasiones específicas de los clientes, desde regalos para cumpleaños hasta detalles corporativos. Cada artículo en "Regalos_Sava" se diseña con atención al detalle y calidad superior para garantizar una experiencia de regalo memorable y significativo.
 
 # Catálogo de productos
@@ -17,7 +17,7 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Ramo buchon de 100 rosas eternas: $100
 * Spiderman Box: $17
 
-## modelo relacional
+## MODEL RELACIONAL
 ![image](https://github.com/Valezzz14/Regalos_sava/assets/169208862/33f53785-ab71-4757-b33b-868fc5d1216e)
 
 
