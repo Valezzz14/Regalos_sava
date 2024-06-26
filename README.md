@@ -1,5 +1,5 @@
-# REGALOS_SAVA
-Regalos_Sava es una plataforma en línea dedicada a la creación y venta de regalos personalizados en todo el Ecuador, el cual se especializa en ofrecer una amplia gama de productos únicos que pueden ser personalizados según las preferencias y ocasiones específicas de los clientes, desde regalos para cumpleaños hasta detalles corporativos. Cada artículo en "Regalos_Sava" se diseña con atención al detalle y calidad superior para garantizar una experiencia de regalo memorable y significativo.
+# Regalos_sava
+Regalos_Sava" es una plataforma en línea dedicada a la creación y venta de regalos personalizados. Nos especializamos en ofrecer una amplia gama de productos únicos que pueden ser personalizados según las preferencias y ocasiones específicas de nuestros clientes. Desde regalos para cumpleaños hasta detalles corporativos personalizados, cada artículo en "Regalos_Sava" se diseña con atención al detalle y calidad superior para garantizar una experiencia de regalo memorable y significativa.
 
 # Catálogo de productos
 * Ramos de hot wheels: $22
@@ -17,14 +17,19 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Ramo buchon de 100 rosas eternas: $100
 * Spiderman Box: $17
 
-## MODELO RELACIONAL
-![image](https://github.com/Valezzz14/Regalos_sava/assets/169208862/33f53785-ab71-4757-b33b-868fc5d1216e)
+## modelo relacional
+![image](https://github.com/Valezzz14/Regalos_sava/assets/169208862/7921cb82-b4db-452c-bbb9-3978d746bb6a)
+
 
 
 **Tablas Principales**
-* Clientes: Almacena información sobre los clientes (padres, estudiantes, personal educativo).
-* Productos: Contiene detalles sobre los artículos escolares disponibles para la venta.
-* Pedidos: Registra los pedidos realizados por los usuarios.
-* DetallesPedidos: Detalles específicos de cada pedido, incluyendo los productos y cantidades.
-* Inventario: Gestión del inventario de productos.
-* Transacciones: Información sobre las transacciones de pago realizadas.
+* Clientes: Almacena información sobre los clientes.
+* Productos: Contiene detalles sobre los regalos disponibles para la venta.
+* Pedidos: Registra los pedidos realizados por los clientes.
+* Detalles de pedidos: Detalles específicos de cada pedido, incluyendo la forma de pago.
+* Empleados: Almacena información sobre los empleados, icluyendo su contacto.
+* Proveedores: Almacena informaci{on sobre los proveedores, icluyendo su contacto.
+* Formas de pago: Registra la forma de pago que nos da el cliente.
+* Categoría de producto: Registra el producto en diferentes categorías.
+* Promociones: Se registra las promociones que puede tener nuestro producto.
+* Valoración de producto: Registra las valoraciones que nos ofrece nuestros clientes.
