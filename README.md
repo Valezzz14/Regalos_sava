@@ -17,7 +17,7 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Ramo buchon de 100 rosas eternas: $100
 * Spiderman Box: $17
 
-## MODEL RELACIONAL
+## MODELO RELACIONAL
 ![image](https://github.com/Valezzz14/Regalos_sava/assets/169208862/33f53785-ab71-4757-b33b-868fc5d1216e)
 
 
