@@ -60,11 +60,14 @@ WHERE
     );
 
 ![image](https://github.com/Valezzz14/Regalos_sava/blob/main/SCRIPT4.PNG)
+
+
 5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.
 
 SELECT ID_Producto, nombre, Stock
 FROM producto
 WHERE stock < 20;
+![image](https://github.com/Valezzz14/Regalos_sava/blob/main/SCRIPT5.PNG)
 
 
 
