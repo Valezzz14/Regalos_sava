@@ -37,20 +37,31 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 ## Reportes del problema.
 En el competitivo mundo de los negocios de regalos, la organización y la eficiencia son claves para el éxito. Regalos Sava, una empresa reconocida en el sector, se enfrenta al desafío de optimizar sus operaciones. En este reportaje, exploraremos cinco soluciones innovadoras en MySQL que prometen transformar la forma en que la empresa gestiona su inventario y pedidos, mejorando significativamente su flujo de trabajo y organización.
 
+**1.-**
+
+
+
+
+**2.-**
+
+
+
+
+**3.-**
 
 
 
 
 
 
-4.- Encontrar los productos con el Precio Máximo en su Categoría
+**4.- Encontrar los productos con el Precio Máximo en su Categoría**
 
 ![image](https://github.com/user-attachments/assets/8dab9a4a-e896-4a1a-a6f4-7b0f4b44db87)
 
 
 
 
-5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.
+**5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.**
 
 ![image](https://github.com/user-attachments/assets/4a7738ca-6cfc-4170-9299-9fae2fc3c657)
 
