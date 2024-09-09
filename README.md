@@ -37,3 +37,30 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 ## Reportes del problema.
 En el competitivo mundo de los negocios de regalos, la organización y la eficiencia son claves para el éxito. Regalos Sava, una empresa reconocida en el sector, se enfrenta al desafío de optimizar sus operaciones. En este reportaje, exploraremos cinco soluciones innovadoras en MySQL que prometen transformar la forma en que la empresa gestiona su inventario y pedidos, mejorando significativamente su flujo de trabajo y organización.
 
+
+
+
+
+
+
+*4.- Encontrar los productos con el Precio Máximo en su Categoría
+
+SELECT 
+    p.ID_Producto, 
+    p.Nombre AS Nombre_Producto, 
+    p.Precio, 
+    p.ID_Categoria
+FROM 
+    producto p
+WHERE 
+    p.Precio = (
+        SELECT MAX(p2.Precio)
+        FROM producto p2
+        WHERE p2.ID_Categoria = p.ID_Categoria
+    );
+
+*5.- Productos con el Precio Máximo en su Categoría
+Encuentra los productos cuyo precio es el máximo en su categoría.
+
+
+
