@@ -45,21 +45,8 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 4.- Encontrar los productos con el Precio Máximo en su Categoría
 
-/SELECT 
-    p.ID_Producto, 
-    p.Nombre AS Nombre_Producto, 
-    p.Precio, 
-    p.ID_Categoria
-FROM 
-    producto p
-WHERE 
-    p.Precio = (
-        SELECT MAX(p2.Precio)
-        FROM producto p2
-        WHERE p2.ID_Categoria = p.ID_Categoria
-    );
+![image](https://github.com/user-attachments/assets/97abe914-7bfa-4e38-a34b-acd8225d7d6b)
 
-![image](https://github.com/Valezzz14/Regalos_sava/blob/main/SCRIPT4.PNG)
 
 
 5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.
