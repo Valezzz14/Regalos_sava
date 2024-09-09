@@ -45,7 +45,7 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 4.- Encontrar los productos con el Precio Máximo en su Categoría
 
-SELECT 
+/SELECT 
     p.ID_Producto, 
     p.Nombre AS Nombre_Producto, 
     p.Precio, 
