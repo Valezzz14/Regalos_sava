@@ -45,16 +45,15 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 4.- Encontrar los productos con el Precio Máximo en su Categoría
 
-![image](https://github.com/user-attachments/assets/97abe914-7bfa-4e38-a34b-acd8225d7d6b)
+![image](https://github.com/user-attachments/assets/8dab9a4a-e896-4a1a-a6f4-7b0f4b44db87)
+
 
 
 
 5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.
 
-SELECT ID_Producto, nombre, Stock
-FROM producto
-WHERE stock < 20;
-![image](https://github.com/Valezzz14/Regalos_sava/blob/main/SCRIPT5.PNG)
+![image](https://github.com/user-attachments/assets/4a7738ca-6cfc-4170-9299-9fae2fc3c657)
+
 
 
 
