@@ -43,7 +43,7 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 
 
-*4.- Encontrar los productos con el Precio Máximo en su Categoría
+4.- Encontrar los productos con el Precio Máximo en su Categoría
 
 SELECT 
     p.ID_Producto, 
@@ -59,8 +59,13 @@ WHERE
         WHERE p2.ID_Categoria = p.ID_Categoria
     );
 
-*5.- Productos con el Precio Máximo en su Categoría
-Encuentra los productos cuyo precio es el máximo en su categoría.
+
+5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.
+
+SELECT ID_Producto, nombre, Stock
+FROM producto
+WHERE stock < 20;
+
 
 
 
