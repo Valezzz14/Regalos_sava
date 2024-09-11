@@ -2,7 +2,7 @@
 Regalos_Sava es una plataforma en línea dedicada a la creación y venta de regalos personalizados en todo el Ecuador, el cual se especializa en ofrecer una amplia gama de productos únicos que pueden ser personalizados según las preferencias y ocasiones específicas de los clientes, desde regalos para cumpleaños hasta detalles corporativos. Cada artículo en "Regalos_Sava" se diseña con atención al detalle y calidad superior para garantizar una experiencia de regalo memorable y significativo.
 
 # Catálogo de productos
-* Ramos de hot wheels:$22
+* Ramos de hot wheels: $22
 * Cajita de corazón:$20
 * Ramo de flores eternas: $15, $20, $30 y $100 (colores personalizados).
 * Letras de gomitas: $9 y $11 (gomitas opcionales).
