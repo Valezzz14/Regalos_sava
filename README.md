@@ -34,7 +34,7 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Promociones: Se registra las promociones que puede tener nuestro producto.
 * Valoración de producto: Registra las valoraciones que nos ofrece nuestros clientes.
 
-https://github.com/Valezzz14/Regalos_sava/blob/main/ABP_REGALOS_SAVA%20Completo.sql)
+https://github.com/Valezzz14/Regalos_sava/blob/main/ABP_REGALOS_SAVA%20Completo.sql
 
 
 ## Reportes del problema.
@@ -71,6 +71,8 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 **5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.**
 
 ![image](https://github.com/user-attachments/assets/4a7738ca-6cfc-4170-9299-9fae2fc3c657)
+
+
 
 
 
