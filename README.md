@@ -72,6 +72,8 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 ![image](https://github.com/user-attachments/assets/4a7738ca-6cfc-4170-9299-9fae2fc3c657)
 
+https://github.com/Valezzz14/Regalos_sava/blob/main/Reporter%C3%ADa.sql
+
 
 
 
