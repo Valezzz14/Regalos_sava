@@ -8,7 +8,7 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Letras de gomitas: $9 y $11 (gomitas opcionales).
 * Girasol eterno: $13
 * Ramo de chocolates + oso + flores: $16.99
-* Ramo de tulipanes con luces $10.99.
+* Ramo de tulipanes con luces: $10.99
 * Ramo de 24 rosas naturales y ferreros: $25
 * Box Girl I: $18
 * Box Girl II: $25
