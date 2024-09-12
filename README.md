@@ -6,8 +6,8 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Cajita de corazón: $20
 * Ramo de flores eternas: $15, $20, $30 y $100 (colores personalizados).
 * Letras de gomitas: $9 y $11 (gomitas opcionales).
-* Girasol eterno:$13
-* Ramo de chocolates + oso + flores:$16.99
+* Girasol eterno: $13
+* Ramo de chocolates + oso + flores: $16.99
 * Ramo de tulipanes con luces:$10.99
 * Ramo de 24 rosas naturales y ferreros:$25
 * Box Girl I:$18
