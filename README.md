@@ -3,7 +3,7 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 
 # Catálogo de productos
 * Ramos de hot wheels: $22
-* Cajita de corazón:$20
+* Cajita de corazón: $20
 * Ramo de flores eternas: $15, $20, $30 y $100 (colores personalizados).
 * Letras de gomitas: $9 y $11 (gomitas opcionales).
 * Girasol eterno:$13
