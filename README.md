@@ -8,14 +8,14 @@ Regalos_Sava es una plataforma en línea dedicada a la creación y venta de rega
 * Letras de gomitas: $9 y $11 (gomitas opcionales).
 * Girasol eterno: $13
 * Ramo de chocolates + oso + flores: $16.99
-* Ramo de tulipanes con luces:$10.99
-* Ramo de 24 rosas naturales y ferreros:$25
-* Box Girl I:$18
-* Box Girl II:$25
-* Box Peluche:$20
-* Regalos de cumpleaños:$40
-* Ramo buchon de 100 rosas eternas:$100
-* Spiderman Box:$17
+* Ramo de tulipanes con luces: $10.99
+* Ramo de 24 rosas naturales y ferreros: $25
+* Box Girl I: $18
+* Box Girl II: $25
+* Box Peluche: $20
+* Regalos de cumpleaños: $40
+* Ramo buchon de 100 rosas eternas: $100
+* Spiderman Box: $17
 
 ## Modelo relacional.
 ![image](https://github.com/Valezzz14/Regalos_sava/assets/169208862/7921cb82-b4db-452c-bbb9-3978d746bb6a)
