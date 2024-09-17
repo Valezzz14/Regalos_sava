@@ -68,7 +68,7 @@ En el competitivo mundo de los negocios de regalos, la organización y la eficie
 
 
 
-**5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra.**
+**5.- Mostar cuáles son los productos con menos de 20 unidades en el stock para realizar su debida compra**
 
 ![image](https://github.com/user-attachments/assets/4a7738ca-6cfc-4170-9299-9fae2fc3c657)
 
